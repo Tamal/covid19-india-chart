@@ -1,0 +1,14 @@
+# Covid-19 Chart
+
+Generates daily & cumulative confirmed, recovered & deceased chart during 40 days Covid-19 lockdown in India
+
+## Daily confirmed, recovered & deceased
+![](asset/daily.png)
+
+## Cumulative confirmed, recovered & deceased
+
+![](asset/total.png)
+
+## Source data
+
+https://www.covid19india.org/
