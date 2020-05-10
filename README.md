@@ -9,6 +9,10 @@ Generates daily & cumulative confirmed, recovered & deceased chart during the da
 
 ![](asset/total.png)
 
+## Daily testing
+
+![](asset/testing.png)
+
 ## Source data
 
 https://www.covid19india.org/
