@@ -2,11 +2,11 @@
 
 Generates daily & cumulative confirmed, recovered, active & deceased chart during the days of Covid-19 lockdown in India.
 
-## Daily confirmed, recovered & deceased
+## Daily confirmed, recovered, active & deceased
 
 ![](asset/daily.png)
 
-## Cumulative confirmed, recovered & deceased
+## Cumulative confirmed, recovered, active & deceased
 
 ![](asset/total.png)
 
